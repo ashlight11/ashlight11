@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashlight11
 - 👀 I’m interested in IoT and embedded software
-- 🌱 I’m currently working on a Accessibility Project in form of an Android App
+- 🌱 I’m currently working with Android Technologies (mobile, AOSP and Auto)
 - 📫 How to reach me : LinkedIn ! https://www.linkedin.com/in/marianne-de-poorter/ 
 
 <!---

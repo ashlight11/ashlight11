@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashlight11
 - 👀 I’m interested in IoT and embedded software
-- 🌱 I’m currently working with Android Technologies (mobile, AOSP and Auto)
+- 🌱 I’m currently working as information system architect at Orange
 - 📫 How to reach me : LinkedIn ! https://www.linkedin.com/in/marianne-de-poorter/ 
 
 <!---

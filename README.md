@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashlight11
-- 👀 I’m interested in IoT and embedded software
-- 🌱 I’m currently working as information system architect at Orange
+- 👀 I’m interested in Space, Books and Cats
+- 🌱 I’m currently working as ML Engineer at Orange
 - 📫 How to reach me : LinkedIn ! https://www.linkedin.com/in/marianne-de-poorter/ 
 
 <!---
